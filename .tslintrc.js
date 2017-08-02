@@ -7,8 +7,6 @@ module.exports = {
         'indent': [true, 'spaces', 4],
         // 要求使用 let 或 const 而不是 var
         'no-var-keyword': true,
-        // 优先使用 const，其次才是 let
-        'prefer-const': true,
         //if,for,do等必须加花括号
         'curly': true,
         //不允许行末出现空格

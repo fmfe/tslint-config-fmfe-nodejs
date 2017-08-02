@@ -36,7 +36,6 @@ $ tslint *.js
     *   行尾必须加分号
     *   缩进使用 4 个空格
     *   要求使用 let 或 const 而不是 var
-    *   优先使用 const，其次才是 let
     *   if,do,while等必须加花括号
     *   不允许行末出现空格
     *   使用单引号
