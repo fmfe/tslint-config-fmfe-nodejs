@@ -1,4 +1,4 @@
-# tslint-config-fmfe-nodejs
+# @fmfe/tslint-config-fmfe-nodejs
 
 TSLint configuration of [Followme Frontend Team](https://github.com/fmfe)
 Node.js group, base on [standard](https://github.com/standard/standard).
@@ -19,12 +19,12 @@ $ touch tslint.json
 ## install
 
 ```
-$ npm install tslint-config-fmfe-nodejs -D
+$ npm install @fmfe/tslint-config-fmfe-nodejs -D
 $ ./node_modules/.bin/tslint --type-check --project tslint.json *.ts
 ```
 or
 ```
-$ npm install tslint tslint-config-fmfe-nodejs -g
+$ npm install tslint @fmfe/tslint-config-fmfe-nodejs -g
 $ tslint *.js
 ```
 
