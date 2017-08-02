@@ -12,7 +12,7 @@ $ touch tslint.json
 ```
 ```json
 {
-    "extends": "tslint-config-fmfe-nodejs"
+    "extends": "@fmfe/tslint-config-fmfe-nodejs"
 }
 ```
 
